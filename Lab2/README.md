@@ -1,6 +1,6 @@
-> NAT (NetworK Address Translation) Gateway
+> Public NAT (NetworK Address Translation) Gateway
 
-Steps for creating NAT gateway from scratch
+Steps for creating Public NAT gateway from scratch
 
 - Create VPC
 - Create Public Subnet
