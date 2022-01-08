@@ -1,6 +1,6 @@
 > Creating Custom VPC
 
-Steps for creating the custom VPC with Public and Private subnet
+Steps for creating the custom VPC with Public subnet
 
 - Create VPC
 - Create Subnet
